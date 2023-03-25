@@ -12,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SuggarHidden&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuggarHidden&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SuggarHidden)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SuggarHidden&icon=0&color=10)](https://visitcount.itsvg.in)
